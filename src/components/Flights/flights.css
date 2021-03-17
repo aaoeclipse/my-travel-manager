@@ -1,0 +1,21 @@
+.flightscreen {
+    background-color: aliceblue;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    width: 80%;
+    box-shadow: lightgray 5px 8px;
+    margin-bottom: 15px;
+
+}
+
+.flightscreen:hover{
+    background-color: lightblue;
+    transform: scale(1.02);
+    transition-duration: 0.3s;
+}
+
+.columninside {
+    text-align: center;
+}
+
